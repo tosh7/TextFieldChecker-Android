@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TextFieldChecker-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/TextFieldChecker-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TextFieldChecker-Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TextFieldChecker-Android.app.iml" />
     </modules>
   </component>
 </project>
